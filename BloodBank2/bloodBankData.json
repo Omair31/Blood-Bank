@@ -1,0 +1,82 @@
+[
+{
+	"UserName": "Ali",
+  "Password": "Ali",
+	"Contact": "03322556622",
+	"BloodGroup":"A",
+	"RHValue":"+",
+	"UserType":"Donor"
+},
+{
+	"UserName":"Omair",
+  "Password":"Omair",
+	"Contact":"03322556622",
+	"BloodGroup":"A",
+	"RHValue":"-",
+	"UserType":"Recipient"
+},
+{
+	"UserName":"Ammar",
+  "Password":"Ammar",
+	"Contact":"03322556622",
+	"BloodGroup":"B",
+	"RHValue":"+",
+	"UserType":"Both"
+},
+{
+	"UserName":"Bilal",
+  "Password":"Bilal",
+	"Contact":"03322556622",
+	"BloodGroup":"B",
+	"RHValue":"-",
+	"UserType":"Donor"
+},
+{
+	"UserName":"Noman",
+  "Password":"Noman",
+	"Contact":"03322556622",
+	"BloodGroup":"AB",
+	"RHValue":"+",
+	"UserType":"Donor"
+},
+{
+	"UserName":"Wasiq",
+  "Password":"Wasiq",
+	"Contact":"03322556622",
+	"BloodGroup":"AB",
+	"RHValue":"-",
+	"UserType":"Both"
+},
+{
+	"UserName":"Bari",
+  "Password":"Bari",
+	"Contact":"03322556622",
+	"BloodGroup":"O",
+	"RHValue":"+",
+	"UserType":"Recipient"
+},
+{
+	"UserName":"Johar",
+  "Password":"Johar",
+	"Contact":"03122556600",
+	"BloodGroup":"O",
+	"RHValue":"-",
+	"UserType":"Donor"
+},
+{
+	"UserName":"Mehdi",
+  "Password":"Mehdi",
+	"Contact":"03552556622",
+	"BloodGroup":"A",
+	"RHValue":"+",
+	"UserType":"Recipient"
+},
+{
+	"UserName":"Hassan",
+  "Password":"Hassan",
+	"Contact":"0332276622",
+	"BloodGroup":"A",
+	"RHValue":"-",
+	"UserType":"Both"
+},
+]
